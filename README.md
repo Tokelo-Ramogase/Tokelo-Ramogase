@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tokelo Ramogase</h1>
-<h3 align="center">I am a 3rd-year Student studying at Belgium Campus ITversity working through a Data Science Degree of four years</h3>
+<h3 align="center">I am a 4th-year IT Student studying at Belgium Campus ITversity working through a Data Science Degree of four years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokelo-ramogase&label=Profile%20views&color=0e75b6&style=flat" alt="tokelo-ramogase" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokelo-ramogase" alt="tokelo-ramogase" /></a> </p>
 
-- 🔭 I’m currently working on a Final year Project identified as Fly-By-Wire, whereby a joystick takes control of an aeroplane, by stabilizing the functionality of its wings, in case of an emergency, such as the incapacitation of the pilot. Once the wings are stabalized it controlds the plane's flight control, enabling it to fly more efficiently and find a safe place to land the plane
+- 🔭 I'm currently working as an R&D Data analyst intern, located in Rosebank, Johannesburg, Gauteng, where I am learning how to generate raw data into meaningful data
 
 - 🌱 I’m currently learning the necessity and functionality of **R** and **Power BI** 
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am physically active** and **enjoy social environments**
 
-![Fly-By-Wire-procedure](https://github.com/Tokelo-Ramogase/Tokelo-Ramogase/blob/main/Fly-By-Wire%20Image.jpg?raw=true)
+!(https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokelo-ramogase)
 
 <h3 align="left">Social links:</h3>
 <p align="left">LinkedIn Account: https://www.linkedin.com/in/tokelo-ramogase-577220383/
