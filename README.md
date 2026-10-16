@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tokelo Ramogase</h1>
-<h3 align="center">I am a 3rd-year Student studying at Belgium Campus ITversity working through a Data Science Degree of four years</h3>
+
+<h2 align="center">All About me</h2>
+
+<h4 align="center">A hardworking 4th-year Data Science student at Belgium Campus ITversity and Data Analyst Intern at Cartrack with extensive experience in data analytics, database development, and data management. Proven track record of developing automated reporting solutions, building robust data pipelines, resolving unassigned vehicle data discrepancies, and presenting technical tools like Data Build Tool(dbt) to data teams. Adept at combining rigorous academic foundations with practical corporate experience</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokelo-ramogase&label=Profile%20views&color=0e75b6&style=flat" alt="tokelo-ramogase" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokelo-ramogase" alt="tokelo-ramogase" /></a> </p>
 
-- 🔭 I’m currently working on a Final year Project identified as Fly-By-Wire, whereby a joystick takes control of an aeroplane, by stabilizing the functionality of its wings, in case of an emergency, such as the incapacitation of the pilot. Once the wings are stabalized it controlds the plane's flight control, enabling it to fly more efficiently and find a safe place to land the plane
-
-- 🌱 I’m currently learning the necessity and functionality of **R** and **Power BI** 
+- 🔭 I’m currently working on developing data analytics solutions, building automated Python/SQL pipelines, and creating operational Grafana dashboards at Cartrack.
+  
+- 🌱 I’m currently learning the necessity and functionality of **Python** and **Power BI** 
 
 - 👯 I’m looking to collaborate on **Data analysis projects** and gain experience in the workforce through **Internship**
 
-- 💬 Ask me about **SQL server** and **SQL Management Studio**
+- 💬 Ask me about **SQL Server**, **PostgreSQL**, and **Data Management**.
 
 - 📫 How to reach me **tokelormg@gmail.com**
 
@@ -19,7 +22,9 @@
 
 - ⚡ Fun fact **I am physically active** and **enjoy social environments**
 
-![Fly-By-Wire-procedure](https://github.com/Tokelo-Ramogase/Tokelo-Ramogase/blob/main/Fly-By-Wire%20Image.jpg?raw=true)
+- <h3 align="left">Work Experience:</h3>
+
+- **Data Analyst Intern | Cartrack (Rosebank, South Africa)** *(Jan 2026 – Dec 2026)*: Developed Grafana dashboards for fleet streaming telematics and driver safety cases, automated Python reporting scripts to flag missing terminal event types, built Jupyter Notebook/PostgreSQL pipelines using CTEs for LTV and MRR analysis, audited GitHub/GitLab repositories, investigated unassigned vehicle data discrepancies across Africa, and presented dbt to the data team.
 
 <h3 align="left">Social links:</h3>
 <p align="left">LinkedIn Account: https://www.linkedin.com/in/tokelo-ramogase-577220383/
